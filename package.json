@@ -1,0 +1,9 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/jltsr/bootcamp.git",
+  "author": "jltsr <julitasari151@gmail.com>",
+  "license": "MIT"
+}
