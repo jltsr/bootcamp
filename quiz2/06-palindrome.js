@@ -6,11 +6,9 @@ function isPalindrome(word){
         for (let index = 0; index < (len/2); index++) {
             if(word[index]!==word[len-1-index]){
                 return false
-            }else{
-                return true
             }
-            
         }
+        return true;
 
 
 }
